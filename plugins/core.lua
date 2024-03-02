@@ -17,7 +17,8 @@ return {
         -- "    ██  ██ ██  ██  ██  ██ ██  ██  ██",
         -- "    ██   ████   ████   ██ ██      ██",
         "Hi, Vignesh Welcome back!!!!",
-        "       Happy Tinkering      "
+        "                            ",
+        "     Happy Tinkering ;)     "
       }
       return opts
     end,
