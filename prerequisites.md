@@ -21,4 +21,5 @@
 - pylsp
 - snyk
 - typescritp-language-server
-
+- stylua
+- lua-language-server
